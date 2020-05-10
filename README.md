@@ -1,7 +1,9 @@
-# Discord Chat Bot
+# Discord chatbot
 
-This is a small example for the E-sport subject at the University of Debrecen.
-The bot uses the Discord API (via discord.py) and the Clash of Clans API (coc.py). Both library can be installed using pip3.
+This is a discord chatbot created for my E-sport class.
+The bot uses the Discord API (via discord.py), Clash of Clans API (coc.py) and the League of Legends API (RiotWatcher). Both library can be installed using pip3.
 
 discord.py: https://discordpy.readthedocs.io/en/latest/
 coc.py: https://pypi.org/project/coc.py/
+
+![Alt Text](https://i.imgur.com/s3P8QxU.png)
